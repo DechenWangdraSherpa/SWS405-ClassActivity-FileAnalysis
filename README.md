@@ -4,7 +4,7 @@
 
 | Item | Detail |
 |---|---|
-| **Module** | SWS405 – Class Activity |
+| **Module** | SWS405 – Digital-Forensics |
 | **Student** | Dechen Wangdra Sherpa (02230281) |
 
 ---
